@@ -101,15 +101,17 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 
 
 ## Passion Projects 😍
-- **GoSweat** 💪
-  - Daily workout routines for various muscle groups with animated instructional guides. 🏋️‍♂️
--![GIF Preview](https://i.ibb.co/6Pkg7GD/ezgif-2-5183f838d0.gif)
 
+### GoSweat 💪
+- Daily workout routines for various muscle groups with animated instructional guides. 🏋️‍♂️
+![GIF Preview](https://i.ibb.co/6Pkg7GD/ezgif-2-5183f838d0.gif)
 
-- **Dilse** ❤️
-  - A cutting-edge dating app crafted with Flutter. 💑
-- **PocketG** 🌍
-  - An educational app to enhance users’ general knowledge of India and the world. 📚
+### Dilse ❤️
+- A cutting-edge dating app crafted with Flutter. 💑
+
+### PocketG 🌍
+- An educational app to enhance users’ general knowledge of India and the world. 📚
+
 
 ## Open Source Contributions 🚀
 - **PhoneNumberhint** 📱
