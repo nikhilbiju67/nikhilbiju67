@@ -15,7 +15,7 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 - **Email:** nikhilbiju67@gmail.com 📧
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikhilbiju/)
 - [![Website](https://img.shields.io/badge/Personal%20Website-nikhilbiju.com-0077B5?style=for-the-badge&logo=InternetExplorer&logoColor=white)](https://www.nikhilbiju.com/)
-- **Website:** [nikhilbiju.com](https://www.nikhilbiju.com) 💻
+- **Website:** [nikhilbiju.com](https://nikhilbiju.com) 💻
 - **Phone:** +919497758113 ☎️
 
 ## Skills 🚀
