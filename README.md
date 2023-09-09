@@ -111,18 +111,18 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 
 [![Google Play Store](https://img.shields.io/badge/Google%20Play-Download%20on%20Google%20Play-0A993D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=mymetime.com.mymetime&hl=en&gl=US)
 
-- Developer 🚀
-- Jan 2021 – Jan 2022 🗓️
-- Kerala, India 🌴
-- Developed and launched a culturally tailored dating application for Malayalis with over 100,000 downloads and revenue exceeding RS 1,000,000. 💘💰
-
 - Daily workout routines for various muscle groups with animated instructional guides. 🏋️‍♂️
 
 
 ### Dilse ❤️
+
 - A cutting-edge dating app crafted with Flutter. 💑
 
 ### PocketG 🌍
+
+![GIF Preview](https://i.ibb.co/nC14qtn/ezgif-2-3e51a82814.gif)
+
+[![Google Play Store](https://img.shields.io/badge/Google%20Play-Download%20on%20Google%20Play-0A993D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.moderntechsolutions.gk&hl=en&gl=US)
 - An educational app to enhance users’ general knowledge of India and the world. 📚
 
 
