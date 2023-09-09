@@ -102,19 +102,19 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 
 
 ## Passion Projects 😍
-- **Hridhayam: Flutter-Powered Dating App** ❤️
+### GoSweat 💪
 
-![GIF Preview](https://i.ibb.co/jvNFCvc/ezgif-3-a3e113badc.gif)
+![GIF Preview](https://i.ibb.co/6Pkg7GD/ezgif-2-5183f838d0.gif)
 
-[![Google Play Store](https://img.shields.io/badge/Google%20Play-Download%20on%20Google%20Play-0A993D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.malayali_datingapp&hl=en&gl=US)
+[![Google Play Store](https://img.shields.io/badge/Google%20Play-Download%20on%20Google%20Play-0A993D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=mymetime.com.mymetime&hl=en&gl=US)
 
 - Developer 🚀
 - Jan 2021 – Jan 2022 🗓️
 - Kerala, India 🌴
 - Developed and launched a culturally tailored dating application for Malayalis with over 100,000 downloads and revenue exceeding RS 1,000,000. 💘💰
-### GoSweat 💪
+
 - Daily workout routines for various muscle groups with animated instructional guides. 🏋️‍♂️
-![GIF Preview](https://i.ibb.co/6Pkg7GD/ezgif-2-5183f838d0.gif)
+
 
 ### Dilse ❤️
 - A cutting-edge dating app crafted with Flutter. 💑
