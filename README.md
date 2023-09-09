@@ -88,7 +88,7 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 
 - **Hridhayam: Flutter-Powered Dating App** ❤️
 
-<div align="center">
+<div align="left">
   <img src="https://i.ibb.co/jvNFCvc/ezgif-3-a3e113badc.gif" alt="GIF Preview">
 </div>
 
