@@ -16,7 +16,7 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 - [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nikhilbiju67)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikhilbiju/)
 - [![Website](https://img.shields.io/badge/Personal%20Website-nikhilbiju.com-0077B5?style=for-the-badge&logo=InternetExplorer&logoColor=white)](https://nikhilbiju.com)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilbiju67)](https://github.com/nikhilbiju67/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilbiju67)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills 🚀
 ### Languages 📝
 - Dart 🎯
