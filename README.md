@@ -12,7 +12,7 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 
 ## About Me 👋
 - **Name:** Nikhil Biju 🧑
-[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:nikhilbiju67@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:nikhilbiju67@gmail.com)
 - [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nikhilbiju67)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikhilbiju/)
 - [![Website](https://img.shields.io/badge/Personal%20Website-nikhilbiju.com-0077B5?style=for-the-badge&logo=InternetExplorer&logoColor=white)](https://nikhilbiju.com)
