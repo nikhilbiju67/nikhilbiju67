@@ -93,6 +93,9 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 
 [![Google Play Store](https://img.shields.io/badge/Google%20Play-Download%20on%20Google%20Play-0A993D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.malayali_datingapp&hl=en&gl=US)
 
+[![App Store](https://img.shields.io/badge/App%20Store-Download%20on%20App%20Store-0073E6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/hridhayam/id6444903823)
+
+
 - Developer 🚀
 - Jan 2021 – Jan 2022 🗓️
 - Kerala, India 🌴
