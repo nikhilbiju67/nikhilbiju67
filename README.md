@@ -85,13 +85,20 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 - Conceptualized and developed BoatAssist, an app for the boating community. ⛵
 
 ## Achievements 🏆
+
 - **Hridhayam: Flutter-Powered Dating App** ❤️
-- ![GIF Preview](https://i.ibb.co/jvNFCvc/ezgif-3-a3e113badc.gif)
- [![Google Play Store](https://img.shields.io/badge/Google%20Play-Download%20on%20Google%20Play-0A993D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.malayali_datingapp&hl=en&gl=US)
-  - Developer 🚀
-  - Jan 2021 – Jan 2022 🗓️
-  - Kerala, India 🌴
-  - Developed and launched a culturally tailored dating application for Malayalis with over 100,000 downloads and revenue exceeding RS 1,000,000. 💘💰
+
+<div align="center">
+  <img src="https://i.ibb.co/jvNFCvc/ezgif-3-a3e113badc.gif" alt="GIF Preview">
+</div>
+
+[![Google Play Store](https://img.shields.io/badge/Google%20Play-Download%20on%20Google%20Play-0A993D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.malayali_datingapp&hl=en&gl=US)
+
+- Developer 🚀
+- Jan 2021 – Jan 2022 🗓️
+- Kerala, India 🌴
+- Developed and launched a culturally tailored dating application for Malayalis with over 100,000 downloads and revenue exceeding RS 1,000,000. 💘💰
+
 
 ## Passion Projects 😍
 - **GoSweat** 💪
