@@ -127,12 +127,13 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 
 
 ## Open Source Contributions 🚀
-- **PhoneNumberhint** 📱
+- **PhoneNumberhint** 📱 [![pub package](https://img.shields.io/pub/v/your_package_name.svg)](https://pub.dev/packages/phone_number_hint)
   - A Flutter package that provides a simple way to retrieve phone number hints from the user’s device. 📞
   ![GIF Preview](https://i.ibb.co/1n3xF6Q/output-onlinegiftools-1.gif)
-[![pub package](https://img.shields.io/pub/v/your_package_name.svg)](https://pub.dev/packages/your_package_name)
 
-- **Chatinput** 💬
+
+- **Chatinput** 💬   [![pub package](https://img.shields.io/pub/v/your_package_name.svg)](https://pub.dev/packages/chat_input)
   - A versatile Flutter library designed to simplify the creation of chat interfaces. 💬
+  ![GIF Preview](https://i.ibb.co/xXBGwD2/ezgif-5-5fdc10f37c.gif)
 
 Feel free to explore my GitHub repositories and reach out to me for collaboration or any questions. Let's build amazing software together! 🤝
