@@ -103,6 +103,9 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 ## Passion Projects 😍
 - **GoSweat** 💪
   - Daily workout routines for various muscle groups with animated instructional guides. 🏋️‍♂️
+  -![GIF Preview](https://i.ibb.co/6Pkg7GD/ezgif-2-5183f838d0.gif)
+  -   -
+  - https://i.ibb.co/6Pkg7GD/ezgif-2-5183f838d0.gif
 - **Dilse** ❤️
   - A cutting-edge dating app crafted with Flutter. 💑
 - **PocketG** 🌍
