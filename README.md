@@ -86,6 +86,8 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 
 ## Achievements 🏆
 - **Hridhayam: Flutter-Powered Dating App** ❤️
+- [![Google Play Store](https://img.shields.io/badge/Google%20Play-Download%20on%20Google%20Play-0A993D?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.malayali_datingapp&hl=en&gl=US)
+
   - Developer 🚀
   - Jan 2021 – Jan 2022 🗓️
   - Kerala, India 🌴
