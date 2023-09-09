@@ -130,6 +130,8 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 - **PhoneNumberhint** 📱
   - A Flutter package that provides a simple way to retrieve phone number hints from the user’s device. 📞
   ![GIF Preview](https://i.ibb.co/1n3xF6Q/output-onlinegiftools-1.gif)
+[![pub package](https://img.shields.io/pub/v/your_package_name.svg)](https://pub.dev/packages/your_package_name)
+
 - **Chatinput** 💬
   - A versatile Flutter library designed to simplify the creation of chat interfaces. 💬
 
