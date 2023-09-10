@@ -1,6 +1,6 @@
 
 
-<img src="./intro.gif"
+<img src=".intro.gif"
 # Nikhil Biju 😄 - Software Developer 🚀
 Welcome to my GitHub profile! 👋 I'm a tech enthusiast with over 5 years of hands-on experience in an exciting array of technologies. My passion? Crafting awe-inspiring, scalable codebases, designing UI/UX masterpieces, and delivering exceptional user experiences that make users go "Wow!" 🚀
 
@@ -8,7 +8,7 @@ In my toolkit, you'll find a dazzling array of skills:
 
 Frontend Wizardry: React, React Native, Flutter 🌟
 Backend Sorcery: Node.js, Express 🧙‍♂️
-Database Whiz: Firebase, MongoDB,Dynam Db,Hive,SQL Lite 📊
+Database Whiz: Firebase, MongoDB,Dynamo Db,Hive, SQL Lite 📊
 Cloud Jedi: AWS (Amazon Web Services), Serverless Framework ☁️
 But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my adventure-filled career includes roles like "Senior Software Developer," where I've been the captain of development squads, steering them to build and maintain scalable web and mobile applications that set sail with React, React Native, and Flutter. I've also been the architect of serverless wonders on AWS, optimizing cost and performance like a pro. Collaborating with talented UX/UI designers, I've crafted engaging and visually stunning user experiences. 🌈
 
