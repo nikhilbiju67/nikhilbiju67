@@ -17,6 +17,11 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/7086893)
 - [![Website](https://img.shields.io/badge/Personal%20Website-nikhilbiju.com-0077B5?style=for-the-badge&logo=InternetExplorer&logoColor=white)](https://nikhilbiju.com)
 
+
+<strong>Stackoverflow stats</strong>
+
+<a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=8212847&theme=swift" alt="stack overflow stat"></a>
+
 ## Skills 🚀
 ### Languages 📝
 - Dart 🎯
