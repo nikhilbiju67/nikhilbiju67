@@ -127,7 +127,7 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 
 
 ## Open Source Contributions 🚀
-- **PhoneNumberhint** 📱 [![pub package](https://img.shields.io/pub/v/your_package_name.svg)](https://pub.dev/packages/phone_number_hint)
+- **PhoneNumberhint** 📱 [![pub package](https://img.shields.io/pub/v/phone_number_hint.svg)](https://pub.dev/packages/phone_number_hint)
   - A Flutter package that provides a simple way to retrieve phone number hints from the user’s device. 📞
   ![GIF Preview](https://i.ibb.co/1n3xF6Q/output-onlinegiftools-1.gif)
 
