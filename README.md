@@ -1,6 +1,6 @@
 
 
-<img src=".intro.gif"
+<img src=".intro.gif" />
 # Nikhil Biju 😄 - Software Developer 🚀
 Welcome to my GitHub profile! 👋 I'm a tech enthusiast with over 5 years of hands-on experience in an exciting array of technologies. My passion? Crafting awe-inspiring, scalable codebases, designing UI/UX masterpieces, and delivering exceptional user experiences that make users go "Wow!" 🚀
 
