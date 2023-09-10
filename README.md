@@ -20,7 +20,7 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 
 <strong>Stackoverflow stats</strong>
 
-<a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=7086893&theme=swift&hide=title" alt="stack overflow stat"></a>
+<a href="https://stackoverflow.com/users/7086893/nikhil-biju"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=7086893&theme=swift&hide=title" alt="stack overflow stat"></a>
 
 ## Skills 🚀
 ### Languages 📝
