@@ -18,9 +18,6 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 - [![Website](https://img.shields.io/badge/Personal%20Website-nikhilbiju.com-0077B5?style=for-the-badge&logo=InternetExplorer&logoColor=white)](https://nikhilbiju.com)
 
 
-<strong>Stackoverflow stats</strong>
-
-<a href="https://stackoverflow.com/users/7086893/nikhil-biju"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=7086893&theme=malt&hide=title" alt="stack overflow stat"></a>
 
 ## Skills 🚀
 ### Languages 📝
