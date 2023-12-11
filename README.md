@@ -88,7 +88,7 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 
 ## Achievements 🏆
 
-- **Hridhayam: A culturally tailored dating application** ❤️
+- **Hridhayam: A culturally tailored dating application** 
 
 ![GIF Preview](https://i.ibb.co/jvNFCvc/ezgif-3-a3e113badc.gif)
 
