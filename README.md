@@ -3,7 +3,7 @@ Welcome to my GitHub profile! 👋 I'm a tech enthusiast with over 5 years of ha
 
 In my toolkit, you'll find a dazzling array of skills:
 
-Frontend Wizardry: React, React Native, Flutter 🌟
+Frontend Wizardry: React, React Native, Flutter 
 Backend Sorcery: Node.js, Express 🧙‍♂️
 Database Whiz: Firebase, MongoDB,Dynamo Db,Hive, SQL Lite 📊
 Cloud Jedi: AWS (Amazon Web Services), Serverless Framework ☁️
