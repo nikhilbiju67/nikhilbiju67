@@ -33,7 +33,18 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
 - GetIt 🚀
 - Getx 🦄
 - Fvm (Flutter version manager) 🌟
-
+  
+#### Android
+- Kotlin 🚀
+- Jetpack 🌈
+- Navigation 🗺️
+- LiveData 🔄
+- ViewModel 🤖
+- Room 🏠
+- Retrofit 🚀
+- Dagger Hilt 🗡️
+- Coroutines 🌀
+- Moshi 🦄
 #### Firebase ☁️
 - Cloud Messaging ☁️
 - Firestore 📋
