@@ -10,7 +10,7 @@ Cloud Jedi: AWS (Amazon Web Services), Serverless Framework ☁️
 But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my adventure-filled career includes roles like "Senior Software Developer," where I've been the captain of development squads, steering them to build and maintain scalable web and mobile applications that set sail with React, React Native, and Flutter. I've also been the architect of serverless wonders on AWS, optimizing cost and performance like a pro. Collaborating with talented UX/UI designers, I've crafted engaging and visually stunning user experiences. 🌈
 
 ## About Me 👋
-- **Name:** Nikhil Biju 🧑
+- **Name:** Nikhil Biju 
 - **Email:** nikhilbiju67@gmail.com 📧
 - [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nikhilbiju67)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nikhilbiju/)
