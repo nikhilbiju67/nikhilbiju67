@@ -110,6 +110,7 @@ But that's not all! I hold a Bachelor's Degree in Computer Science 🎓, and my 
   ![GIF Preview](https://i.ibb.co/xXBGwD2/ezgif-5-5fdc10f37c.gif)
 
 -**Compose multiplatform Chat ui**
+
 https://github.com/user-attachments/assets/a442959b-2e9d-4a1e-9ace-459d753aa85e
 
 Feel free to explore my GitHub repositories and reach out to me for collaboration or any questions. Let's build amazing software together! 🤝
