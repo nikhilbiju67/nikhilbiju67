@@ -1,5 +1,5 @@
 # Nikhil Biju 😄 - Software Developer 🚀
-Hi there! 👋 I'm a passionate software developer with over 5 years of experience building innovative and scalable applications. I specialize in creating seamless user experiences and writing clean, maintainable code across a variety of technologies.
+Hi there! 👋 I'm a passionate software developer with over 6 years of experience building innovative and scalable applications. I specialize in creating seamless user experiences and writing clean, maintainable code across a variety of technologies.
 
 Here’s a snapshot of my skills:
 
