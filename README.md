@@ -109,7 +109,7 @@ I’m always excited to dive into new technologies, tackle complex challenges, a
 - Conceptualized and developed BoatAssist, an app for the boating community. ⛵
 
 
-## Open Source Contributions 🚀
+## Building Together: Open Source Contributions 🚀
 - **PhoneNumberhint** 📱 [![pub package](https://img.shields.io/pub/v/phone_number_hint.svg)](https://pub.dev/packages/phone_number_hint)
   - A Flutter package that provides a simple way to retrieve phone number hints from the user’s device. 📞
   ![GIF Preview](https://i.ibb.co/1n3xF6Q/output-onlinegiftools-1.gif)
