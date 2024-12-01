@@ -119,7 +119,7 @@ I’m always excited to dive into new technologies, tackle complex challenges, a
   - A versatile Flutter library designed to simplify the creation of chat interfaces. 💬
   ![GIF Preview](https://i.ibb.co/xXBGwD2/ezgif-5-5fdc10f37c.gif)
 
--**Compose multiplatform Chat ui**
+- **Compose multiplatform Chat ui**
 
 https://github.com/user-attachments/assets/a442959b-2e9d-4a1e-9ace-459d753aa85e
 
